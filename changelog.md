@@ -1,5 +1,9 @@
 
 # Changelog
 
+* Version 0.0.2
+    * Exercise 1 => IP Exercise 1
+    * IP Exercise 1: Question added
+
 * Version 0.0.1
     * Exercise 1 added
