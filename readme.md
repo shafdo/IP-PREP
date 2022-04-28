@@ -1,5 +1,5 @@
 
-## SLIIT-IP-PREP
+## Introduction To C Programming Prep (IP-PREP)
 
 <div style="display:flex;">
     <p align="center" width="100%">
@@ -17,7 +17,7 @@
 
 ### Note 📝
 
-* Please do note I'm not a C expert (currently just an Y1:S1 undergrad @SLIIT). So, if you found out that I have made a mistake anywhere on my code please feel free to create a new issue or contribute via sending a push request 🙂.
+* Please do note I'm not a C expert (currently just an Y1:S1 undergrad). So, if you found out that I have made a mistake anywhere on my code please feel free to create a new issue or contribute via sending a push request 🙂.
 
 * Your contributions with new exercises are appreciated 🤝.
 
