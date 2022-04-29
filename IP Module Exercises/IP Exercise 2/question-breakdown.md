@@ -15,6 +15,7 @@
 4. getAmount(): to calculate the amount to be paid.
 
     ```float getAmount(int noOfGuests, float chargePerGuest, float discount);```
+    
     Formula: ```Amount to be paid = (no of guests * charge per guest) – discount)```
 
 5. main():

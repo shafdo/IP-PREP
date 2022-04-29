@@ -15,6 +15,7 @@
 1. totalCost(): find and return the total cost
 
     `calculateTotalCost(int itemNo, int quantity);`
+    
     Formula: `Total cost = unit price * quantity`
 
 2. printDetails(): print the item number, quantity, and the total cost.
@@ -26,6 +27,19 @@
     * input item number
     * input quantity purchased
     * printDetails()
+
+
+## Output
+```
+Enter Item Number: 
+Enter Quantity Purchased: 
+
+================== RESULTS ==================
+
+Item Number: 
+Quantity: 
+Total Cost: 
+```
 
 ____
 

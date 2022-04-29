@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.7
+    * IP Exercise 2 question breakdown markdown update
+    * IP Exercise 4 question breakdown markdown update
+
 * Version 0.0.6
     * IP Exercise 3 added
     * IP Exercise 4 added
