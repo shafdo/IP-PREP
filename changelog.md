@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.6
+    * IP Exercise 3 added
+    * IP Exercise 4 added
+
 * Version 0.0.5
     * Readme.md updated
 
