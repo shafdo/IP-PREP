@@ -1,16 +1,16 @@
 
 /*
 Name: Shalinda Fernando
-Date: 30/04/2022
+Date: 01/05/2022
 Student ID: REDACTED
 Group: REDACTED
 */
 
 #include <stdio.h>
 
-int main(void){
+int main(void){    
     // Init variables
-    int marksArray[10], counter, mark, sum;
+    int marksArray[10], counter, mark, sum, noOfFailedStudents;
     float average;
 
     // Code block to initialze each element in the array to -1
@@ -46,13 +46,16 @@ int main(void){
     // Calculate the average. Average = total marks of 10 students / no of students
     average = sum / 10;
 
-    // Code block: Loop though the marksArray to print all students marks >= average
-    printf("\nOutput:\nPassed marks: ");
+    // Code block: Loop though the marksArray and calculate all students who failed (marks < average)
+    noOfFailedStudents = 0;     // Number of failed students (variable noOfFailedStudents) 0 by default
+    printf("\nOutput:\nNumber of failed applicants: ");
     for (counter = 0; counter < 10; counter++){
-        if(marksArray[counter] >= average){                 // Condition to check if the student mark >= average
-            printf("%d ", marksArray[counter]);             // Print the passed mark
+        if(marksArray[counter] < average){              // Condition to check if the student mark < average
+            noOfFailedStudents += 1;
         }
     }
+
+    printf("%d\n", noOfFailedStudents);         // Print the number of failed applicants
 
     return 0;
 }

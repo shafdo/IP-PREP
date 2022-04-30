@@ -1,9 +1,9 @@
 
 ## Question
 
-An aptitude test of a particular university will take 10 applicants at a time. Those who scored more than the average mark will be qualified to enter the university. Others have to take the test again. Write a C program to enter marks in an array and find the marks which will be qualified.
+An aptitude test of a particular university will take 10 applicants at a time. Those who scored more than the average mark will be qualified to enter the university. Others have to take the test again. Write a C program to enter marks in an array and find how many applicants have failed the test.
 
-    (a) Declare an integer array called testMarks of size 10.
+    (a) Declare an integer array called marks of size 10.
     (b) Initialize all the array elements to -1.
     (c) Read the marks from keyboard and store then in the array.
 
@@ -21,11 +21,11 @@ Input mark 2: 76
 Input mark 10: 84
 ```
 
-(d) Display the marks which will be qualified.
+(d) Display the number of failed candidates.
 
 Example:
 
 Input array:
 92 76 80 48 66 89 61 56 92 84
 Output:
-Passed marks: 92 76 80 89 92 84
+Number of failed applicants: 4

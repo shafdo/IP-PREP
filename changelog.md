@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.11
+    * IP Exercise 7 added
+    * IP Exercise 6 typo fixed
+
 * Version 0.0.10
     * IP Exercise 6 added
     * IP Exercise 5 question-breakdown.md -> question number updated
