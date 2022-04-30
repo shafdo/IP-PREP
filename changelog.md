@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.8
+    * IP Exercise 5 added
+    * Decided to add code previews for simplicity
+
 * Version 0.0.7
     * IP Exercise 2 question breakdown markdown update
     * IP Exercise 4 question breakdown markdown update
