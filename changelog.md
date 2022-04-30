@@ -1,6 +1,9 @@
 
 # Changelog
 
+* Version 0.0.9
+    * Code previews resolution adjusted to *width: 1280*. *Font size: max* for clarity. 
+
 * Version 0.0.8
     * IP Exercise 5 added
     * Decided to add code previews for simplicity
