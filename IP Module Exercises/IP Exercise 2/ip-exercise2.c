@@ -21,10 +21,10 @@ int main(void){
     float chargePerGuest, discount, totBill;
 
     // Prompt and get the required information from the user
-    printf("Enter number of guests:");
+    printf("Enter number of guests: ");
     scanf("%d", &noOfGuests);
 
-    printf("Enter charge per guest:");
+    printf("Enter charge per guest: ");
     scanf("%f", &chargePerGuest);
 
     discount = getDiscountPrice(noOfGuests, chargePerGuest);    // Calculate Discount

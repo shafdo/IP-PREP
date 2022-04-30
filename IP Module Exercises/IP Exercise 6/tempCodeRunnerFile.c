@@ -1,0 +1,1 @@
+        if(marksArray[counter] >= average){                 // Condit

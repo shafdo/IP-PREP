@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.12
+    * IP Exercise 8 added
+    * Code outputs added to code-preview.md files
+
 * Version 0.0.11
     * IP Exercise 7 added
     * IP Exercise 6 typo fixed
