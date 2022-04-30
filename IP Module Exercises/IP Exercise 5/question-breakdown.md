@@ -1,5 +1,5 @@
 
-## IP-EXERCISE 4
+## IP-EXERCISE 5
 * Rating calculator on a scale of 1 to 5.
 
 * Store the number of responces from their customers using an array.

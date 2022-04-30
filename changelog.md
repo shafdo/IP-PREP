@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.10
+    * IP Exercise 6 added
+    * IP Exercise 5 question-breakdown.md -> question number updated
+
 * Version 0.0.9
     * Code previews resolution adjusted to *width: 1280*. *Font size: max* for clarity. 
 
