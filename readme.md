@@ -21,6 +21,11 @@
 
 * Your contributions with new exercises are appreciated 🤝.
 
+### DISCLAIMER ⚠️
+> Please do note that the code for all exercises is designed with the intention of helping the students to understand the question and to get the idea/concept of how the code (solution) works. Please note that plagiarising the content from this repository on your tests might/will get you in trouble and the creators of this repository will not be responsible. So, please stick with your own ways of coding the solution for a given problem (on your tests).
+>
+> Thanks 🙂.
+
 ____
 
 <p align="center">Made with ❤️. If you like this project show some support by giving it a star ⭐</p>

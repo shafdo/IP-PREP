@@ -1,6 +1,10 @@
 
 # Changelog
 
+* Version 0.0.13
+    * IP Exercise 9 added
+    * Disclaimer added to readme.md file
+
 * Version 0.0.12
     * IP Exercise 8 added
     * Code outputs added to code-preview.md files
