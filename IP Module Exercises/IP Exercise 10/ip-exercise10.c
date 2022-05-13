@@ -9,7 +9,7 @@ Group: REDACTED
 #include <stdio.h>
 #include <string.h>
 
-int main(void){
+int main(void){ 
     
     int counter, intArr[10], positiveNum[10], negativeNum[10], userNum;
 
